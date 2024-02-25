@@ -2,10 +2,13 @@
 
 This project contains the following artifacts
 
-- The Generate component is depicted in the following diagram
-- 
+## Generate component
+
     ![Generate.png](Diagrams%2FGenerate.png)
 
-- Sequence diagram
-- Swagger specification
-- Datamodel
+## Sequence diagram
+
+## Swagger specification
+- [eComTransactionCredentials.yaml](eComTransactionCredentials.yaml)
+
+## Datamodel
