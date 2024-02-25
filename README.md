@@ -2,7 +2,10 @@
 
 This project contains the following artifacts
 
-- Logical diagram
+- The Generate component is depicted in the following diagram
+
+    
+
 - Sequence diagram
 - Swagger specification
 - Datamodel
