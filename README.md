@@ -3,8 +3,7 @@
 This project contains the following artifacts
 
 ## Generate component
-
-    ![Generate.png](Diagrams%2FGenerate.png)
+![Generate](Diagrams%2FGenerate.png)
 
 ## Sequence diagram
 
