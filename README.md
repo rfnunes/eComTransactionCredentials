@@ -14,5 +14,5 @@ Solution for the proposed design problem
 ## Swagger specification
 - [eComTransactionCredentials.yaml](eComTransactionCredentials.yaml)
 
-## Datamodel
+## Data Model
 ![Datamodel.png](Diagrams%2FDatamodel.png)
