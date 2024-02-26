@@ -1,14 +1,13 @@
-# eComTransactionCredentials
+# Distributed system to generate and validate transaction credentials for eCommerce
 
-This project contains the following artifacts
+Solution for the proposed design problem
 
 ## Logical Diagram
 ![Generate](Diagrams%2FLogicalDiagram.png)
 
-- There's a common database for every region with PCI and PII related tables and a a transaction counter table.
-- The generate component has a cache containing the PCI and PII related data relative to the region where it resides.
+- There's a common database for every region with PCI related data and a a transaction counter table.
+- The generate component has a cache containing the PCI related data relative to the region where it resides.
 - The validate's component cache, besides the PCI and PII related data has the not yet validated transaction's counter, held for the validity's lifespan.
-
 
 ## Sequence diagram
 
@@ -16,3 +15,4 @@ This project contains the following artifacts
 - [eComTransactionCredentials.yaml](eComTransactionCredentials.yaml)
 
 ## Datamodel
+![Datamodel.png](Diagrams%2FDatamodel.png)
