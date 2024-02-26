@@ -11,7 +11,6 @@ Solution for the proposed design problem
 
 ## Sequence diagrams
 
-- Generate
 ![SequenceDiagramGenerate.png](Diagrams%2FSequenceDiagramGenerate.png)
 
 
