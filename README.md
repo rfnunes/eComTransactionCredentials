@@ -12,7 +12,7 @@ Solution for the proposed design problem
 ## Sequence diagrams
 
 - Generate
-![Generate](Diagrams%2FSequence-Diagram-Generate.png)
+![Generate](Diagrams%2FSequenceDiagramGenerate.png)
 
 
 
