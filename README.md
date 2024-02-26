@@ -3,7 +3,7 @@
 Solution for the proposed design problem
 
 ## Logical Diagram
-![Generate](Diagrams%2FLogicalDiagram.png)
+![](Diagrams%2FLogicalDiagram.png)
 
 - There's a common database for every region with PCI related data and a a transaction counter table.
 - The generate component has a cache containing the PCI related data relative to the region where it resides.
@@ -12,7 +12,7 @@ Solution for the proposed design problem
 ## Sequence diagrams
 
 - Generate
-![Generate](Diagrams%2FSequenceDiagramGenerate.png)
+![](Diagrams%2FSequenceDiagramGenerate.png)
 
 
 
@@ -20,4 +20,4 @@ Solution for the proposed design problem
 - [eComTransactionCredentials.yaml](eComTransactionCredentials.yaml)
 
 ## Data Model
-![Datamodel.png](Diagrams%2FDatamodel.png)
+![](Diagrams%2FDatamodel.png)
