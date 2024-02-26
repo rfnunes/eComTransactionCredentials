@@ -9,7 +9,12 @@ Solution for the proposed design problem
 - The generate component has a cache containing the PCI related data relative to the region where it resides.
 - The validate's component cache, besides the PCI related data has the not yet validated transaction's counter, held for the validity's lifespan.
 
-## Sequence diagram
+## Sequence diagrams
+
+- Generate
+![Generate](Diagrams%2FSequence-Diagram-Generate.png)
+
+
 
 ## Swagger specification
 - [eComTransactionCredentials.yaml](eComTransactionCredentials.yaml)
