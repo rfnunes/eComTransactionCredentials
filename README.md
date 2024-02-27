@@ -15,12 +15,15 @@ Solution for the proposed design problem
 #### Validate
 
 ## Swagger specification
-- [eComTransactionCredentials.yaml](doc/swagger/eComTransactionCredentials.yaml)
+Please find it in the following file:
+[eComTransactionCredentials.yaml](doc/swagger/eComTransactionCredentials.yaml)
 
 ## Data Model
 ![](doc/diagrams/Datamodel.png)
 
-```sql
+```sql 
+-- sql/datamodel.sql
+
 CREATE TABLE "card_holder"
 (
     "id"            long PRIMARY KEY,
