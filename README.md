@@ -3,7 +3,7 @@
 Solution for the proposed design problem
 
 ## Logical Diagram
-![](diagram/LogicalDiagram.png)
+![](doc/diagrams/LogicalDiagram.png)
 
 - There's a common database for every region with PCI related data and a a transaction counter table.
 - The generate component has a cache containing the PCI related data relative to the region where it resides.
