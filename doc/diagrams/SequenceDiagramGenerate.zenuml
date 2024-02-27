@@ -1,0 +1,12 @@
+GVR.request(pan) {
+  isValidRequest = Validator.isValidRequest(pan)
+  if(isValidRequest) {
+    transactionCredentials = HSM.generateCredentials()
+    base64TC = encodeBase64(transactionCredentials)
+    Database.persist(base64transactionCredentials)
+  }
+  else {
+    return "error 400"
+  }
+  return base64transactionCredentials
+}

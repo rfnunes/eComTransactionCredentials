@@ -13,6 +13,7 @@ Solution for the proposed design problem
 #### Generate
 ![SequenceDiagramGenerate.png](doc/diagrams/SequenceDiagramGenerate.png)
 #### Validate
+![SequenceDiagramValidate.png](doc/diagrams/SequenceDiagramValidate.png)
 
 ## Swagger specification
 Please find it in the following file:
