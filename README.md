@@ -10,10 +10,9 @@ Solution for the proposed design problem
 - The validate's component cache, besides the PCI related data has the not yet validated transaction's counter, held for the validity's lifespan.
 
 ## Sequence diagrams
-
+#### Generate
 ![SequenceDiagramGenerate.png](doc/diagrams/SequenceDiagramGenerate.png)
-
-[SequenceDiagramGenerate.drawio](doc/diagrams/SequenceDiagramGenerate.drawio)
+#### Validate
 
 ## Swagger specification
 - [eComTransactionCredentials.yaml](doc/swagger/eComTransactionCredentials.yaml)
